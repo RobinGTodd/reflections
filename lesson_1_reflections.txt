@@ -1,0 +1,28 @@
+Learned some new unix commands.
+Diff allows me to compare two plain text files.
+I decided to use Sublime a plain text editor.
+I can open from command line by 'subl'.
+
+Comparing the differences in two versions pinpoint any changes.
+(aka errors).
+
+Looking at mistakes from old or new versions could prevent a programmer
+from making them again and again.
+
+Pros and cons of manual commits:
+	Pros- You can ensure each commit has meaning and will run.
+	cons- You may forget to commit.
+
+Saving multiple files in one commit is more valuable for programming.
+Google docs only saves documents and spreadsheets that lack interdependence.
+
+git clone directly into the directory you want. 
+Then make sure you are in that directory before running git commands.
+
+How might using version control make you more confident to make changes that could break something?
+	Version control would allow you to avoid any irreversible changes.
+
+	There is no worry that you will not remember exactly what you had previously.
+
+Now that you have workspace set up, what do you want to try using Git for?
+	I have no projects in mind at this time. I can use it for the ML udacity course.
